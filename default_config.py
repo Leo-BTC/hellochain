@@ -1,7 +1,7 @@
 # default_config.py
 
 # The Bool value True or False
-IS_USE_SYSTEM_VARIABLE = True
+IS_USE_SYSTEM_VARIABLE = False
 
 ######################################################
 # if the key IS_USE_SYSTEM_VARIABLE is True , The following variables will not be apply.
